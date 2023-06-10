@@ -1,0 +1,8 @@
+{
+  "framerate": 90,
+  "images": ["media/sprites/spaceship.png"],
+  "frames": {"width":64, "height":64, "regX": 32, "regY": 32},
+  "animations": {
+    "spaceship": [0]
+  }
+}

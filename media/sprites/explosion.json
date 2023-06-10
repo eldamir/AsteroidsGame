@@ -1,0 +1,8 @@
+{
+  "framerate": 90,
+  "images": ["media/sprites/explosion.png"],
+  "frames": {"width":100, "height":100, "regX": 50, "regY": 50},
+  "animations": {
+    "explosion": [0,73]
+  }
+}

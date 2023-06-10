@@ -1,0 +1,13 @@
+{
+  "framerate": 24,
+  "images": ["media/sprites/asteroid.png"],
+  "frames": {"width":64, "height":64, "regX": 32, "regY": 32},
+  "animations": {
+    "asteroid1": [0,29],
+    "asteroid2": [5,9],
+    "asteroid3": [10,14],
+    "asteroid4": [15,19],
+    "asteroid5": [20,24],
+    "asteroid6": [25,29]
+  }
+}
